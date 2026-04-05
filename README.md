@@ -1,6 +1,12 @@
 # 📊 Strategic Customer Behavioral Analysis
 **An AI-Driven Study by Aditya, Sinchana, Nivetha, Pragya, & Priti**
 
+ABSTRACT
+
+This study presents a Strategic Customer Behavioral Analysis using unsupervised machine learning to move beyond traditional demographic segmentation. Utilizing a dataset of 2,240 customers, the research employs Principal Component Analysis (PCA) for dimensionality reduction and K-Means Clustering to identify latent consumer patterns.
+
+Distinguishing this work from standard analytical models, we integrated a "Human Angle" by engineering features that measure the psychological tension between Rational vs. Emotional spending, Digital Engagement, and Household Life-Stage Dynamics. The model successfully identified four distinct strategic personas: Elite High-Spenders, Budget-Conscious Families, Tech-Savvy Youth, and Occasional Shoppers.
+
 ## 🎯 Project Overview
 This project moves beyond traditional demographics to analyze the **psychology of consumer behavior**. By applying Unsupervised Machine Learning (K-Means Clustering) and Dimensionality Reduction (PCA), we segmented a customer base into four strategic personas to drive targeted marketing decisions.
 
