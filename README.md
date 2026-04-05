@@ -40,9 +40,6 @@ To determine the optimal number of customer segments, we utilized the **KElbowVi
 The transition from **Big Data to Smart Data** requires more than just algorithms; it requires human insight. Through the use of **PCA (Principal Component Analysis)** and **K-Means Clustering**, our team successfully reduced 29 complex variables into 4 actionable strategic personas. This study proves that a data-driven, persona-based marketing approach is essential for maximizing ROI and fostering long-term customer loyalty in a digital-first economy.
 
 ---
-<p align="center">
-  <b>Project Completed for Academic Submission - April 2026</b>
-</p>
 
 ## 🚀 How to Run
 The analysis is contained within the `.ipynb` file. It is optimized for **Google Colab** and requires the `marketing_campaign.csv` dataset provided in this repository.
