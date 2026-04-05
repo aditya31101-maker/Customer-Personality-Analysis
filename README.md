@@ -24,6 +24,23 @@ Unlike standard data projects, our team focused on three specific behavioral ind
 - ### 📐 Statistical Validation: The Elbow Method
 To determine the optimal number of customer segments, we utilized the **KElbowVisualizer**. By plotting the "Distortion Score" against the number of clusters (K), we identified the **"Elbow Point" at K=4**. This mathematical inflection point ensures that our clusters are distinct enough to be meaningful without over-complicating the model.
 
+## 📈 Visualizing the AI Insights
+
+### 1. Model Validation: The Elbow Method & Dendrogram
+*We utilized the Elbow Method and Hierarchical Dendrograms to analyze cluster stability. While the mathematical 'elbow' suggests 6 groups, we optimized the model to **4 Strategic Personas** to ensure maximum business interpretability and actionable marketing segments.*
+
+![Elbow Method](elbow.png)
+![Dendrogram](dendrogram.png)
+
+### 2. Behavioral Mapping (3D PCA View)
+*By reducing 29 variables into 3 Principal Components (PCA), we can visualize how our 2,240 customers naturally separate into distinct psychological groups.*
+
+![3D Persona Map](3d_map.png)
+
+### 3. Income vs. Spending Power
+*This distribution highlights the clear financial boundaries between our 'Elite Spenders' and 'Budget-Conscious' segments.*
+
+![Income vs Spending](income_vs_spent.png)
 ---
 
 ## 💎 Unique Selling Point (USP)
